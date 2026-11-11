@@ -1,4 +1,5 @@
-
+- [dbdefault](https://github.com/dbdefault) - First open source contribution
+- [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Satya Prakash](https://github.com/Anirvarti)
 - [chen-xiao-yuan](https://github.com/chen-xiao-yuan)
 - [iniya-27](https://github.com/iniya-27) - Added Python contributions!
@@ -2256,6 +2257,7 @@ Suraj Kumar i am not gonna provide any link
 - [aplatogg](https://github.com/aplatogg)
 - [aroojresearch](https://github.com/aroojresearch)
 my name is vasu iam a btech student in ksrm college of engineering .
+my name is tony
 - [Sakshi Sinha](https://github.com/sakshi9703)
 - [Om Ingle](https://github.com/Om-ingle)
 - [JanLancelot] (https://github.com/JanLancelot)
@@ -8410,3 +8412,4 @@ Kunal Khallar - Learning to contribute :)
 - [mathanesh](https://github.com/mathanesh030-debug)
 - [Dinakaran G](https://github.com/dinakaran27122007) - My first open-source contribution!
 - [Rajpal](https://github.com/Rajpal14)
+- [fatty](https://github.com/fartysupreme)
